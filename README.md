@@ -1,4 +1,4 @@
-!!!!# sudoku
+Sudoku
 fundamentals of computing II 
 
 Develop an interactive game that will read in a traditional (1-9; 0 = empty) Sudoku
